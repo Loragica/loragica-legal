@@ -12,7 +12,6 @@ This repository contains legal documents and brand policies for **Loragica**, an
 | [`TERMS.md`](./TERMS.md) | Terms and Conditions |
 | [`LICENSE`](./LICENSE) | Source Code License — GNU AGPL-3.0 |
 | [`TRADEMARK.md`](./TRADEMARK.md) | Trademark Policy & Brand Assets |
-| [`index.md`](./index.md) | Main page for the GitHub Pages version |
 
 ---
 

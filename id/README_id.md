@@ -12,7 +12,6 @@ Repository ini berisi dokumen legal dan kebijakan brand untuk **Loragica**, plat
 | [`TERMS.md`](./TERMS.md) | Syarat dan Ketentuan |
 | [`LICENSE`](./LICENSE) | Lisensi kode sumber — GNU AGPL-3.0 |
 | [`TRADEMARK.md`](./TRADEMARK.md) | Kebijakan Merek & Brand Assets |
-| [`index.md`](./index.md) | Halaman utama untuk versi GitHub Pages |
 
 ---
 
