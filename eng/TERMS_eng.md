@@ -85,9 +85,7 @@ These Terms and Conditions are governed by and construed in accordance with the 
 
 ## 9. Contact
 
-Questions regarding these Terms and Conditions can be directed to:
-
-📧 **Email:** (insert official Loragica contact email address here)
+Questions regarding these Terms and Conditions can be directed to us.
 
 ---
 

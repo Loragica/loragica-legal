@@ -53,9 +53,7 @@ Kamu **boleh**, tanpa perlu izin tertulis:
 
 ## 4. Mengajukan Izin Penggunaan
 
-Jika kamu ingin menggunakan brand assets Loragica di luar cakupan "Yang Boleh Dilakukan" di atas (misalnya untuk kerja sama resmi, liputan media, atau program kemitraan), silakan hubungi kami terlebih dahulu:
-
-📧 **Email:** (isi alamat email kontak resmi Loragica di sini)
+Jika kamu ingin menggunakan brand assets Loragica di luar cakupan "Yang Boleh Dilakukan" di atas (misalnya untuk kerja sama resmi, liputan media, atau program kemitraan), silakan hubungi kami.
 
 ---
 

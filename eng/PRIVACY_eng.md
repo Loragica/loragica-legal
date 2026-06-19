@@ -73,9 +73,7 @@ As Loragica is still in its early stages of development, this policy is likely t
 
 ## 8. Contact
 
-If you have any questions about this privacy policy or wish to exercise your rights regarding your personal data, please contact us at:
-
-📧 **Email:** (insert official Loragica contact email address here)
+If you have any questions about this privacy policy or wish to exercise your rights regarding your personal data, please contact us.
 
 ---
 

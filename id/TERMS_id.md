@@ -85,9 +85,7 @@ Syarat dan Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Republi
 
 ## 9. Kontak
 
-Pertanyaan seputar Syarat dan Ketentuan ini bisa disampaikan melalui:
-
-📧 **Email:** (isi alamat email kontak resmi Loragica di sini)
+Pertanyaan seputar Syarat dan Ketentuan ini bisa disampaikan kepada kami.
 
 ---
 

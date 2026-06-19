@@ -73,9 +73,7 @@ Karena Loragica masih dalam tahap awal pengembangan, kebijakan ini kemungkinan a
 
 ## 8. Kontak
 
-Jika kamu punya pertanyaan tentang kebijakan privasi ini atau ingin menggunakan hak atas data pribadimu, silakan hubungi kami melalui:
-
-📧 **Email:** (isi alamat email kontak resmi Loragica di sini)
+Jika kamu punya pertanyaan tentang kebijakan privasi ini atau ingin menggunakan hak atas data pribadimu, silakan hubungi kami.
 
 ---
 

@@ -53,9 +53,7 @@ You **may**, without requiring written permission:
 
 ## 4. Requesting Permission for Use
 
-If you wish to use Loragica's brand assets outside the scope of "What You Can Do" above (for instance, for official collaborations, media coverage, or partnership programs), please contact us first:
-
-📧 **Email:** (insert official Loragica contact email address here)
+If you wish to use Loragica's brand assets outside the scope of "What You Can Do" above (for instance, for official collaborations, media coverage, or partnership programs), please contact us first.
 
 ---
 
